@@ -36,5 +36,8 @@ Playwright Test for VSCode
 # Assim executa todos os cenários no mesmo navegador para seguir no proximo navegador
   npx playwright test --workers=1
 
+# Modelo ci .github/workflows/playwright.yml
+https://playwright.dev/docs/ci-intro  
+
 
 
